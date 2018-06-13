@@ -1,0 +1,1635 @@
+Name,ICO,Max,ROI
+Bitcoin,0.0,19535.7,N/A
+Ethereum,0.0,1389.18,N/A
+Ripple,0.0,3.6491,N/A
+Bitcoin Cash,0.0,4091.7,N/A
+EOS,0.99,21.4637,2068.05%
+Litecoin,0.0,366.153,N/A
+Cardano,0.0,1.27977,N/A
+Stellar,0.0,0.851652,N/A
+TRON,0.0,0.254791,N/A
+IOTA,0.0,5.34246,N/A
+NEO,0.0,162.11,N/A
+Tether,0.0,1.21016,N/A
+Monero,0.0,494.164,N/A
+Dash,0.0,1541.99,N/A
+NEM,0.0,1.89635,N/A
+VeChain,0.0,9.44558,N/A
+Ethereum Classic,0.0,45.5091,N/A
+Binance Coin,0.0,24.4621,N/A
+Qtum,0.0,103.454,N/A
+Bytecoin,0.0,0.0154149,N/A
+OmiseGO,0.0,26.1439,N/A
+Zcash,0.0,4293.37,N/A
+ICON,0.11,12.1144,10913.09%
+Lisk,0.0,38.4026,N/A
+Ontology,0.0,10.9802,N/A
+Zilliqa,0.0,0.218524,N/A
+Aeternity,0.0,4.99837,N/A
+Bitcoin Gold,0.0,479.817,N/A
+Decred,0.0,121.701,N/A
+0x,0.048,2.38689,4872.68%
+Bytom,0.0,1.13293,N/A
+Steem,0.0,7.31207,N/A
+Verge,0.0,0.231503,N/A
+Nano,0.0,34.4258,N/A
+BitShares,0.0,0.874599,N/A
+Siacoin,0.0,0.0971539,N/A
+Populous,0.0,73.4548,N/A
+RChain,0.0,2.9899,N/A
+Wanchain,0.34,9.82405,2789.42%
+Maker,0.0,1687.86,N/A
+Bitcoin Private,0.0,86.1975,N/A
+Bitcoin Diamond,0.0,91.4741,N/A
+Golem,0.0,1.1573,N/A
+Stratis,0.0,21.2136,N/A
+Waves,0.0,17.0598,N/A
+Augur,0.0,107.703,N/A
+Dogecoin,0.0,0.0173586,N/A
+Mixin,0.0,2320.38,N/A
+WaykiChain,0.0,2.8324,N/A
+Waltonchain,0.0,43.8883,N/A
+IOST,0.01,0.136496,1264.96%
+DigiByte,0.0,0.129687,N/A
+Status,0.0,0.649891,N/A
+Hshare,0.0,43.1679,N/A
+Aion,1.0,11.1011,1010.11%
+Nebulas,2.0,15.1017,655.08%
+Loopring,0.0,2.08774,N/A
+Basic Attention Token,0.0,0.864405,N/A
+DigixDAO,0.0,553.571,N/A
+CyberMiles,0.0524,0.606158,1056.79%
+Komodo,0.0,12.8851,N/A
+Ardor,0.0,2.03152,N/A
+Ark,0.0,9.29089,N/A
+aelf,0.099,2.59203,2518.21%
+PIVX,0.0,13.7994,N/A
+Polymath,0.0,1.64073,N/A
+Dentacoin,0.0001,0.00713281,7032.81%
+Loom Network,0.076,0.756345,895.19%
+GXChain,0.0,10.3826,N/A
+MonaCoin,0.0,19.2232,N/A
+Bancor,3.92,10.268,161.93%
+Cortex,0.58,2.40089,313.94%
+Cryptonex,0.0,10.1485,N/A
+Elastos,18.09,91.5612,406.14%
+Skycoin,0.0,47.1468,N/A
+MaidSafeCoin,0.0,1.16655,N/A
+MyBit Token,0.0,14.4628,N/A
+Gas,0.0,85.6818,N/A
+ReddCoin,0.0,0.0266412,N/A
+Syscoin,0.0,0.919993,N/A
+Huobi Token,0.0,5.42255,N/A
+QASH,0.24,2.47852,932.71%
+Fusion,2.06,9.61207,366.60%
+Ethos,0.0,10.8582,N/A
+Mithril,0.0,1.55188,N/A
+Kyber Network,0.0,5.84106,N/A
+FunFair,0.0,0.192624,N/A
+Electroneum,0.01,0.191831,1818.31%
+Veritaseum,0.0,474.094,N/A
+Substratum,0.0817,3.12575,3725.88%
+Centrality,0.0,0.539844,N/A
+Nexus,0.0,13.3256,N/A
+iExec RLC,0.0,4.47231,N/A
+Dragonchain,0.0663,5.01197,7459.53%
+Enigma,0.6,8.06213,1243.68%
+Nuls,0.0,8.14484,N/A
+ZCoin,0.0,141.185,N/A
+Holo,0.0002,0.00200137,900.68%
+Dropil,0.0,0.00999192,N/A
+All Sports,0.0,0.300607,N/A
+Kin,0.0001,0.00136091,1260.90%
+Nxt,0.0,1.93853,N/A
+Storm,0.0113,0.244108,2060.24%
+Factom,0.0,78.3672,N/A
+Emercoin,0.0,10.0083,N/A
+ZenCash,0.0,65.1635,N/A
+Gifto,0.0,0.992979,N/A
+Matrix AI Network,0.0,1.71799,N/A
+BnkToTheFuture,0.0,0.352879,N/A
+True Chain,0.0,3.61972,N/A
+Power Ledger,0.0,1.89724,N/A
+ChainLink,0.11,1.35121,1128.37%
+SALT,0.89,17.6769,1886.16%
+Theta Token,0.0,0.312894,N/A
+WAX,0.32,4.81081,1403.37%
+Byteball Bytes,0.0,1058.49,N/A
+Nexo,0.1,0.536074,436.07%
+Bibox Token,0.0,3.92256,N/A
+Civic,0.1,1.36693,1266.92%
+Quantstamp,0.072,0.807443,1021.44%
+Scry.info,0.0,0.497104,N/A
+Achain,0.0,1.36672,N/A
+Nucleus Vision,0.0,0.0502181,N/A
+Monaco,3.8,24.7778,552.04%
+Request Network,0.0672,1.0703,1492.70%
+Bottos,0.0,0.377013,N/A
+DeepBrain Chain,0.0158,0.639256,3945.92%
+Blocknet,0.0,56.2216,N/A
+Neblio,0.0,58.9941,N/A
+TenX,0.64,5.32608,732.20%
+Storj,0.5,3.04207,508.41%
+Decentraland,0.024,0.269746,1023.94%
+Revain,0.0,3.82658,N/A
+eosDAC,0.0,0.272173,N/A
+SingularityNET,0.1,1.8206,1720.60%
+High Performance Blockchain,0.0,13.2154,N/A
+IHT Real Estate Protocol,0.0,0.232495,N/A
+Cindicator,0.01,0.331942,3219.42%
+Delphy,0.0,4.63693,N/A
+Iconomi,0.0,5.25602,N/A
+Arcblock,0.0,1.65248,N/A
+Time New Bank,0.0171,0.292893,1612.82%
+SmartCash,0.0,2.79533,N/A
+Game.com,0.15,0.452439,201.62%
+BitcoinDark,0.0,387.703,N/A
+Enjin Coin,0.0512,0.486954,851.08%
+Aragon,0.0,7.50782,N/A
+Ruff,0.0,0.21939,N/A
+Asch,0.0,1.62462,N/A
+MediBloc,0.0088,0.287466,3166.65%
+Gnosis,0.0,392.908,N/A
+Particl,0.0,47.2612,N/A
+Lympo,0.0217,0.137978,535.84%
+Vertcoin,0.0,9.97484,N/A
+SophiaTX,0.0716,1.57769,2103.47%
+Santiment Network Token,0.0,7.96601,N/A
+SONM,0.16,1.01637,535.23%
+Credits,0.0,1.05295,N/A
+POA Network,0.0,0.914215,N/A
+Paypex,0.0,2.53528,N/A
+SmartMesh,0.0167,0.242369,1351.31%
+BOScoin,0.0,7.05597,N/A
+Dent,0.0,0.105469,N/A
+Bluzelle,0.12,0.837862,598.21%
+DigitalNote,0.0,0.0970448,N/A
+Ignis,0.0391,2.30446,5793.75%
+Groestlcoin,0.0,2.27107,N/A
+SIRIN LABS Token,0.0,3.61733,N/A
+Dynamic Trading Rights,0.0,0.235995,N/A
+GameCredits,0.0,6.61016,N/A
+Docademic,0.0,0.436309,N/A
+Genaro Network,0.15,1.2717,747.80%
+Jibrel Network,0.0,0.632712,N/A
+Metal,0.0,13.8581,N/A
+Raiden Network Token,0.0,8.03909,N/A
+Po.et,0.0064,0.221729,3364.51%
+BLOCKv,0.0207,0.310511,1400.05%
+MediShares,0.0,0.257794,N/A
+THEKEY,0.0,0.040382,N/A
+DATA,0.0109,0.0607473,457.31%
+Ink,0.0,0.938002,N/A
+DEW,0.0,3.69745,N/A
+TokenPay,0.0,10.7879,N/A
+Apex,0.0,0.331895,N/A
+Crypterium,0.75,2.98354,297.80%
+Ubiq,0.0,6.77442,N/A
+NavCoin,0.0,4.60416,N/A
+Storiqa,0.007,0.02102,200.28%
+BridgeCoin,0.0,9.48721,N/A
+Streamr DATAcoin,0.0,0.359229,N/A
+Cube,0.0,0.0265789,N/A
+OriginTrail,0.1,0.459713,359.71%
+Bitcore,0.0,38.8954,N/A
+Ambrosus,0.3,1.71763,472.54%
+Primecoin,0.0,7.26715,N/A
+CRYPTO20,1.0,3.93029,293.02%
+CyberVein,0.0,0.0857149,N/A
+Genesis Vision,1.0,42.7347,4173.46%
+Zebi,0.0333,0.22546,577.05%
+Bodhi,0.37,1.64901,345.67%
+Peercoin,0.0,9.59958,N/A
+TomoChain,0.0,2.271,N/A
+EDUCare,0.0,0.190254,N/A
+ZClassic,0.0,235.318,N/A
+ETHLend,0.0173,0.439732,2441.80%
+Telcoin,0.0013,0.0117804,806.18%
+Red Pulse,0.0358,0.772854,2058.81%
+OST,0.0,1.27243,N/A
+IoT Chain,0.0,9.14804,N/A
+Edgeless,0.0,2.86567,N/A
+AdEx,0.0,3.41791,N/A
+Burst,0.0,0.10763,N/A
+Republic Protocol,0.0571,0.139213,143.80%
+Banca,0.002,0.00571202,185.60%
+Pillar,0.0,1.8091,N/A
+Electra,0.0,0.00818428,N/A
+Quantum Resistant Ledger,0.0,3.70422,N/A
+Bread,0.78,3.29177,322.02%
+DAEX,0.0,0.201662,N/A
+Rock,0.0,0.263061,N/A
+Eidoo,0.0,6.91033,N/A
+Litecoin Cash,0.0,7.12795,N/A
+DecentBet,0.0,0.700647,N/A
+Ripio Credit Network,0.0743,0.489884,559.33%
+Hydro Protocol,0.0,0.282761,N/A
+PayPie,0.34,3.68516,983.87%
+BitBay,0.0,0.344405,N/A
+Einsteinium,0.0,2.6322,N/A
+AirSwap,0.3,1.92946,543.15%
+SaluS,0.0,120.081,N/A
+CloakCoin,0.0,31.2118,N/A
+Oyster,0.0,4.29813,N/A
+BABB,0.0012,0.00302782,152.31%
+Dai,0.0,1.17063,N/A
+TrueUSD,0.0,1.32263,N/A
+district0x,0.0,0.400902,N/A
+SingularDTV,0.0,0.412861,N/A
+Internet Node Token,0.0,1.03077,N/A
+Ravencoin,0.0,0.0697737,N/A
+SpankChain,0.0,0.633762,N/A
+NANJCOIN,0.0,0.00453022,N/A
+Viacoin,0.0,7.04769,N/A
+bitCNY,0.0,0.491865,N/A
+Gulden,0.0,0.456276,N/A
+HTMLCOIN,0.0,0.00628168,N/A
+Experience Points,0.0,0.00525009,N/A
+Wings,0.0,2.09303,N/A
+UTRUST,0.065,1.39783,2050.50%
+Safe Exchange Coin,0.0,0.109411,N/A
+KuCoin Shares,0.0,20.6053,N/A
+Datawallet,0.18,0.152151,-15.47%
+INS Ecosystem,2.54,10.9272,330.20%
+WePower,0.13,0.283675,118.21%
+ION,0.0,7.12414,N/A
+DATx,0.0353,0.0581181,64.64%
+NAGA,0.0,4.24113,N/A
+MinexCoin,0.0,57.9612,N/A
+FuzeX,0.0755,0.100357,32.92%
+LinkEye,0.0,0.172454,N/A
+Pura,0.0,1.057,N/A
+Primas,0.0,1.17644,N/A
+Havven,0.67,0.778992,16.26%
+WhiteCoin,0.0,0.282368,N/A
+Stakenet,0.0,0.519955,N/A
+WaBi,0.24,5.57959,2224.82%
+Wagerr,0.0,0.959503,N/A
+Zeepin,0.13,0.20263,55.86%
+AppCoins,0.27,4.20316,1456.72%
+Soarcoin,0.0,0.0634137,N/A
+Odyssey,0.0119,0.110455,828.19%
+Tierion,0.071,0.393563,454.31%
+TokenCard,0.0,3.89494,N/A
+BitRent,0.0,0.073153,N/A
+YEE,0.0,0.0579165,N/A
+CPChain,0.1,0.419146,319.14%
+Tokenomy,0.0,0.424344,N/A
+Modum,1.0,11.5299,1052.99%
+Trinity Network Credit,0.0,0.400376,N/A
+KickCoin,0.0,0.27838,N/A
+VIBE,0.0,2.42109,N/A
+SelfSell,0.0,0.161092,N/A
+Counterparty,0.0,85.5883,N/A
+LBRY Credits,0.0,1.85093,N/A
+DECENT,0.0,3.35586,N/A
+MobileGo,0.76,3.17975,318.38%
+Metaverse ETP,0.0,5.96381,N/A
+Trade Token,0.0,1.69609,N/A
+TokenClub,0.0,0.0965767,N/A
+Zoin,0.0,3.70595,N/A
+QunQun,0.0,0.138074,N/A
+Unobtanium,0.0,379.217,N/A
+Etherparty,0.1,0.431433,331.43%
+Datum,0.0192,0.134995,603.09%
+Cashaa,0.0,0.191244,N/A
+Qbao,0.0,2.19217,N/A
+ODEM,0.0,0.265561,N/A
+Blox,0.0,0.283073,N/A
+QLINK,0.0,1.2508,N/A
+Electrify.Asia,0.08,0.205693,157.11%
+Lunyr,0.0,61.153,N/A
+FairCoin,0.0,1.4858,N/A
+Alphacat,0.0,0.0203911,N/A
+Legolas Exchange,0.0,0.334133,N/A
+Aeon,0.0,8.98538,N/A
+Feathercoin,0.0,1.29163,N/A
+Triggers,0.0,8.85002,N/A
+TaaS,0.0,11.573,N/A
+Steem Dollars,0.0,22.1174,N/A
+Namecoin,0.0,13.1059,N/A
+Dock,0.0,0.237627,N/A
+YOYOW,0.0,0.578252,N/A
+Melon,0.0,256.371,N/A
+Presearch,0.2,0.805999,302.99%
+ECC,0.0,0.00387313,N/A
+Shift,0.0,11.3384,N/A
+OracleChain,0.0,1.19079,N/A
+Cobinhood,0.0,1.52398,N/A
+Mobius,0.16,0.465476,190.92%
+U Network,0.0,0.00862219,N/A
+Universa,0.01,0.0547123,447.12%
+bitqy,0.0,0.0944959,N/A
+Viberate,0.1,0.7146,614.60%
+Sentinel,0.0,0.0276102,N/A
+Spectre.ai Dividend Token,0.0,2.20639,N/A
+Neurotoken,0.0,0.716657,N/A
+Phore,0.0,8.7183,N/A
+Humaniq,0.0,0.615494,N/A
+BlockMason Credit Protocol,0.0,2.23394,N/A
+Elastic,0.0,1.18046,N/A
+Medicalchain,0.0,0.399511,N/A
+Propy,0.0,5.71602,N/A
+ColossusXT,0.0,0.0223688,N/A
+Fortuna,0.0,0.229075,N/A
+STK,0.0,0.314597,N/A
+Sentinel Chain,0.08,0.219589,174.48%
+Refereum,0.021,0.0328816,56.57%
+BrahmaOS,0.0,0.170881,N/A
+FirstBlood,0.0,2.61385,N/A
+Bankex,0.0,2.83244,N/A
+Stox,0.0,2.70407,N/A
+DeepOnion,0.0,18.757,N/A
+Lamden,0.091,1.30963,1339.15%
+iXledger,0.0,3.96463,N/A
+Aurora DAO,0.0,0.556188,N/A
+Decision Token,0.0,5.49726,N/A
+Zeusshield,0.0,0.0854713,N/A
+SunContract,0.0,0.630186,N/A
+Cofound.it,0.12,0.437037,264.19%
+Hive Project,0.0,0.385894,N/A
+Bloom,1.16,2.15092,85.42%
+ugChain,0.0,0.19574,N/A
+Bitcoin Green,0.0,11.5267,N/A
+CasinoCoin,0.0,0.00344415,N/A
+XTRABYTES,0.0,0.776779,N/A
+COSS,0.0,2.914,N/A
+PotCoin,0.0,0.425468,N/A
+DAOstack,1.0,1.36236,36.23%
+PRIZM,0.0,2.5085,N/A
+SwftCoin,0.0,0.0891226,N/A
+Mothership,0.0,0.576636,N/A
+Synereo,0.0,1.05014,N/A
+adToken,0.0,0.229193,N/A
+Lykke,0.0,0.416258,N/A
+Unikoin Gold,0.0,2.1809,N/A
+Pepe Cash,0.0,0.127481,N/A
+Proxeus,0.0,0.271616,N/A
+Unibright,0.14,0.203797,45.56%
+Energo,0.0,0.311605,N/A
+Bean Cash,0.0,0.0401688,N/A
+Everex,2.1,5.93813,182.76%
+XinFin Network,0.0,0.0166071,N/A
+Mercury,0.0,1.18059,N/A
+ProChain,0.0,0.678741,N/A
+SpaceChain,0.0,0.46089,N/A
+Bitcoin Atom,0.0,1605.49,N/A
+Crown,0.0,4.54861,N/A
+Dimecoin,0.0,0.000273276,N/A
+LEOcoin,0.0,2.14514,N/A
+Pascal Coin,0.0,5.63437,N/A
+StrongHands,0.0,0.000828251,N/A
+DADI,0.0,0.519489,N/A
+Monetha,0.16,0.593221,270.76%
+Polybius,10.0,13.2953,32.95%
+DMarket,0.63,1.51419,140.34%
+Cappasity,0.0,0.493739,N/A
+Blackmoon,1.0,2.35961,135.96%
+Credo,0.0,0.213729,N/A
+LALA World,0.13,0.110595,-14.92%
+BlackCoin,0.0,1.10586,N/A
+SHIELD,0.0,0.369957,N/A
+HempCoin,0.0,0.641633,N/A
+Boolberry,0.0,4.22918,N/A
+AI Doctor,0.0,0.262816,N/A
+Matchpool,0.0,1.51718,N/A
+Chronobank,0.0,49.4124,N/A
+Blocktix,0.0,2.52771,N/A
+Swarm,0.0,1.65402,N/A
+ALQO,0.0,3.10897,N/A
+UpToken,0.0,0.419468,N/A
+Restart Energy MWAT,0.0,0.0757279,N/A
+I/O Coin,0.0,7.25943,N/A
+Agrello,0.43,1.71679,299.25%
+Aeron,0.5,9.33999,1767.99%
+Hi Mutual Society,0.0,0.163392,N/A
+Hexx,0.0,15.9269,N/A
+Karma,0.0,0.0872163,N/A
+bitUSD,0.0,1.6002,N/A
+Morpheus Network,0.45,0.81913,82.02%
+Nework,0.0,0.133185,N/A
+Peerplays,0.0,23.3463,N/A
+GridCoin,0.0,0.188235,N/A
+Omni,0.0,187.578,N/A
+CoinPoker,0.0,0.148046,N/A
+Blockport,0.0,0.838067,N/A
+FlorinCoin,0.0,0.329131,N/A
+DIMCOIN,0.01,0.347065,3370.64%
+ShipChain,0.0,0.432426,N/A
+Incent,0.0,1.03096,N/A
+Tao,0.0,1.52358,N/A
+Hydrogen,0.0,0.0148208,N/A
+Diamond,0.0,32.28,N/A
+indaHash,0.21,0.616622,193.62%
+Bismuth,0.0,9.06519,N/A
+Covesting,1.44,3.11336,116.20%
+GINcoin,0.0,9.04334,N/A
+Moeda Loyalty Points,0.0,11.731,N/A
+Aphelion,0.13,0.723943,456.87%
+Ormeus Coin,0.0,5.19155,N/A
+Measurable Data Token,0.0,0.836012,N/A
+Uquid Coin,0.0,2.96346,N/A
+OneRoot Network,0.0,0.141306,N/A
+Envion,0.7,1.1906,70.08%
+MonetaryUnit,0.0,0.496618,N/A
+PACcoin,0.0,0.0149759,N/A
+EchoLink,0.0,1.18149,N/A
+Numeraire,0.0,158.359,N/A
+AICHAIN,0.0,0.139068,N/A
+MedicCoin,0.0,0.159281,N/A
+RevolutionVR,0.0,0.791078,N/A
+Selfkey,0.015,0.080274,435.16%
+Sharder,0.0,0.137265,N/A
+Radium,0.0,17.1564,N/A
+ATMChain,0.0,0.094221,N/A
+Flash,0.0,0.217272,N/A
+E-Dinar Coin,0.0,1530.15,N/A
+Linker Coin,0.0,0.115763,N/A
+OAX,0.0,2.71809,N/A
+carVertical,0.0055,0.0240844,337.89%
+Mooncoin,0.0,0.000842603,N/A
+LATOKEN,0.0,1.87412,N/A
+Oxycoin,0.0,0.344933,N/A
+VeriCoin,0.0,2.61329,N/A
+DeviantCoin,0.0,7.31756,N/A
+Hacken,0.0,7.93688,N/A
+BitClave,0.1,0.316273,216.27%
+Quantum,0.0,0.536065,N/A
+SolarCoin,0.0,2.4022,N/A
+MARK.SPACE,0.0,0.209417,N/A
+Databits,0.0,2.33079,N/A
+NPER,0.0,0.387916,N/A
+Grid+,1.15,3.1194,171.25%
+Expanse,0.0,9.4459,N/A
+SIBCoin,0.0,5.14234,N/A
+Divi,0.0,11.77,N/A
+Nebula AI,0.0059,0.115263,1853.61%
+Linda,0.0,0.0123142,N/A
+Maecenas,0.66,2.18568,231.16%
+ICOS,0.0,60.4584,N/A
+Smartlands,0.0,4.49593,N/A
+SureRemit,0.0,0.0482682,N/A
+Rubycoin,0.0,1.99485,N/A
+Banyan Network,0.0,0.162267,N/A
+Etheroll,0.0,8.97493,N/A
+Bezop,0.0,0.718621,N/A
+Polis,0.0,57.2763,N/A
+Neumark,0.0,2.57384,N/A
+PeepCoin,0.0,0.00116472,N/A
+TE-FOOD,0.0391,0.0609821,55.96%
+NoLimitCoin,0.0,0.51098,N/A
+REBL,0.0,0.360175,N/A
+Matryx,0.29,2.55124,779.73%
+HeroNode,0.0,0.0316088,N/A
+LUXCoin,0.0,49.8544,N/A
+Olympus Labs,2.18,3.24809,48.99%
+NewYorkCoin,0.0,0.000963836,N/A
+aXpire,0.1,0.257266,157.26%
+LockTrip,0.0,4.15758,N/A
+BitSend,0.0,1.90674,N/A
+Paragon,1.0,4.10592,310.59%
+SwissBorg,0.1,0.104065,4.06%
+LoMoCoin,0.0,0.358919,N/A
+Everus,0.0,6.02791,N/A
+Graft,0.0,0.0635841,N/A
+Russian Miner Coin,0.0,30285.8,N/A
+Pareto Network,0.0,0.0997535,N/A
+Rivetz,0.88,3.36825,282.75%
+DomRaider,0.12,0.163752,36.46%
+PolySwarm,0.0165,0.0148441,-10.03%
+Playkey,1.73,6.12869,254.25%
+ShareX,0.0,0.0557139,N/A
+Fluz Fluz,0.0,0.506062,N/A
+Clams,0.0,13.6363,N/A
+EZToken,0.0,1.65399,N/A
+Rialto,0.0,0.657578,N/A
+Elixir,0.0,2.43648,N/A
+Friendz,0.067,0.0343867,-48.67%
+PolicyPal Network,0.0403,0.0563204,39.75%
+Rentberry,0.35,0.113571,-67.55%
+Rise,0.0,1.62962,N/A
+Digitex Futures,0.0,0.0151579,N/A
+Myriad,0.0,0.0530952,N/A
+Nexium,0.0,0.765776,N/A
+Remme,0.0,0.0350295,N/A
+B2BX,0.74,1.76564,138.60%
+Swarm City,0.0,5.77847,N/A
+Zap,0.0,1.47622,N/A
+Bee Token,0.0,0.270567,N/A
+Sprouts,0.0,0.00125483,N/A
+OKCash,0.0,0.736665,N/A
+Profile Utility Token,0.0,2.82093,N/A
+Musicoin,0.0,0.114717,N/A
+NeosCoin,0.0,16.5249,N/A
+DubaiCoin,0.0,42.543,N/A
+Patientory,0.0,1.61599,N/A
+Golos,0.0,1.56141,N/A
+The ChampCoin,0.0,0.271083,N/A
+Bulwark,0.0,17.3373,N/A
+Flixxo,0.0934,0.923278,888.52%
+Morpheus Labs,0.0,0.0951164,N/A
+Leverj,0.15,0.420107,180.07%
+Effect.AI,0.0,0.0827132,N/A
+Gambit,0.0,33.6357,N/A
+Debitum,0.0,0.103481,N/A
+ATN,0.0,1.99731,N/A
+Devery,0.17,0.435859,156.38%
+U.CASH,0.0,0.218963,N/A
+Local World Forwarders,0.0,0.11004,N/A
+Stipend,0.0,2.07499,N/A
+BitDegree,0.0719,0.555279,672.29%
+Hubii Network,0.33,1.73084,424.49%
+CoinFi,0.1,0.350332,250.33%
+Energycoin,0.0,0.49282,N/A
+BitTube,0.0,0.412514,N/A
+CVCoin,0.0,3.332,N/A
+Mintcoin,0.0,0.0029308,N/A
+Dynamic,0.0,7.01627,N/A
+FoldingCoin,0.0,0.100929,N/A
+Helbiz,0.0,0.0345092,N/A
+Novacoin,0.0,26.1265,N/A
+XPA,0.0,0.381688,N/A
+Stealth,0.0,1.5808,N/A
+Lendingblock,0.02,0.0383265,91.63%
+CargoX,0.0,0.268281,N/A
+Pandacoin,0.0,0.0021769,N/A
+WeTrust,0.0,1.27158,N/A
+EXRNchain,0.0,0.000178356,N/A
+InsurePal,0.1,0.423899,323.89%
+Bounty0x,0.0165,0.928698,5528.47%
+EncrypGen,0.0,1.95293,N/A
+Nimiq Exchange Token,0.0,7.83252,N/A
+AdShares,0.0,2.18362,N/A
+Loki,0.68,0.93247,37.12%
+LatiumX,0.0,0.131531,N/A
+NaPoleonX,0.87,0.60024,-31.00%
+GoldCoin,0.0,0.493526,N/A
+PinkCoin,0.0,0.106525,N/A
+ATBCoin,0.0,1.52424,N/A
+LIFE,0.0,0.00708919,N/A
+adbank,0.0465,0.0408347,-12.18%
+Leadcoin,0.0,0.122473,N/A
+ToaCoin,0.0,0.0128574,N/A
+Pluton,0.0,31.1224,N/A
+Mysterium,0.0,4.52047,N/A
+GET Protocol,0.0,7.03917,N/A
+Oyster Shell,0.0,0.174213,N/A
+Spectrecoin,0.0,5.51268,N/A
+Snovio,0.01,0.418784,4087.84%
+SportyCo,0.0,0.741382,N/A
+AidCoin,0.65,0.791726,21.80%
+InvestFeed,0.0,0.328252,N/A
+IDEX Membership,0.0,11139.8,N/A
+Dovu,0.0,1.13634,N/A
+Global Currency Reserve,0.0,0.468757,N/A
+Curecoin,0.0,1.18173,N/A
+Insights Network,0.18,0.173463,-3.63%
+Change,0.0,1.8451,N/A
+ConnectJob,0.0,0.109147,N/A
+HEAT,0.0,2.14763,N/A
+Zilla,0.0,0.49317,N/A
+ALIS,0.0983,1.24993,1171.54%
+Sphere,0.0,11.1494,N/A
+Aventus,3.4,6.84969,101.46%
+Gladius Token,0.0,1.61382,N/A
+Xaurum,0.0,1533.96,N/A
+Dotcoin,0.0,0.083101,N/A
+IP Exchange,0.0122,0.0168541,38.14%
+Solaris,0.0,47.6668,N/A
+Payfair,0.0,0.506605,N/A
+Global Cryptocurrency,0.0,0.391392,N/A
+Worldcore,0.0,0.553342,N/A
+Zippie,0.0,0.111418,N/A
+Bitcrystals,0.0,1.62697,N/A
+Ink Protocol,0.13,0.129244,-0.58%
+AirToken,0.02,0.0847465,323.73%
+OBITS,0.0,3.57086,N/A
+Dero,0.0,5.00729,N/A
+Pirl,0.0,4.12748,N/A
+Syndicate,0.0,1.18528,N/A
+Waves Community Token,0.0,5.25141,N/A
+MktCoin,0.0,0.189545,N/A
+FundRequest,0.48,0.263188,-45.16%
+Eroscoin,0.0,0.195737,N/A
+Spectiv,0.0,0.0633452,N/A
+Fitrova,0.0,0.0222489,N/A
+Auctus,0.26,1.22511,371.19%
+Espers,0.0,0.00212747,N/A
+HollyWoodCoin,0.0,24.8125,N/A
+Travelflex,0.0,0.322486,N/A
+Block Array,0.0,0.438658,N/A
+Blue Protocol,0.0,2.04177,N/A
+TransferCoin,0.0,4.24927,N/A
+Circuits of Value,0.0,0.0451499,N/A
+APX,0.0,21.3886,N/A
+BitConnect,0.0,442.485,N/A
+CanYaCoin,0.0,5.11564,N/A
+Sequence,0.0,1.09388,N/A
+FintruX Network,0.0,0.396292,N/A
+JET8,0.0974,0.034735,-64.33%
+Auroracoin,0.0,96.808,N/A
+FedoraCoin,0.0,0.000163556,N/A
+Kore,0.0,8.35159,N/A
+GoByte,0.0,80.2606,N/A
+BioCoin,0.0,0.0241239,N/A
+Vice Industry Token,0.0,0.0394067,N/A
+TrueFlip,0.0,5.35306,N/A
+Target Coin,0.0,0.12547,N/A
+CommerceBlock,0.0625,0.116596,86.55%
+Publica,0.1,3.87331,3773.31%
+AdHive,0.17,0.167871,-1.25%
+DAO.Casino,0.0,0.332942,N/A
+ArtByte,0.0,0.0464821,N/A
+ATLANT,0.0,2.66587,N/A
+Viuly,0.0,0.104526,N/A
+Internet of People,0.0,11.5738,N/A
+Anoncoin,0.0,11.9729,N/A
+BitDice,0.0875,0.506852,479.25%
+CHIPS,0.0,1.20857,N/A
+Breakout Stake,0.0,2.80003,N/A
+Monoeci,0.0,10.324,N/A
+ClearPoll,0.0,10.4681,N/A
+Universal Currency,0.0,1.82019,N/A
+GeoCoin,0.0,18.3213,N/A
+Titanium BAR,0.0,0.52895,N/A
+BitStation,0.0,0.00759652,N/A
+Tokes,0.0,9.65664,N/A
+AMLT,0.39,0.0823378,-78.88%
+Spectre.ai Utility Token,0.0,3.328,N/A
+Zeitcoin,0.0,0.000673764,N/A
+Colu Local Network,0.0,0.0655787,N/A
+Haven Protocol,0.0,6.95091,N/A
+HyperStake,0.0,0.0303058,N/A
+Dether,0.23,0.182521,-20.64%
+Opus,0.0,0.218739,N/A
+EuropeCoin,0.0,1.16808,N/A
+Bitcoin Plus,0.0,189.501,N/A
+Bitmark,0.0,3.39384,N/A
+Astro,0.0,5.45831,N/A
+HOQU,0.22,0.0996629,-54.69%
+REAL,0.0,2.52847,N/A
+2GIVE,0.0,0.0380512,N/A
+Aditus,0.05,0.0713155,42.63%
+Peculium,0.0,0.00717561,N/A
+Pure,0.0,6.04667,N/A
+Pesetacoin,0.0,0.163638,N/A
+Qwark,0.0,0.633007,N/A
+vTorrent,0.0,1.36469,N/A
+Sumokoin,0.0,10.128,N/A
+Nullex,0.0,0.183692,N/A
+B3Coin,0.0,0.107517,N/A
+Sether,0.0,1.09074,N/A
+ExclusiveCoin,0.0,3.77446,N/A
+Crave,0.0,12.6283,N/A
+Cryptopay,0.0,0.389735,N/A
+FidentiaX,0.0,1.90902,N/A
+NuBits,0.0,1.26411,N/A
+HelloGold,0.0,0.349181,N/A
+MaxCoin,0.0,2.76934,N/A
+Memetic / PepeCoin,0.0,1.22207,N/A
+Internxt,1.02,33.2445,3159.26%
+Tokenbox,0.0,1.51483,N/A
+Open Trading Network,0.0,55.3872,N/A
+ClearCoin,0.0,0.0202128,N/A
+Voise,0.0,0.167779,N/A
+Monkey Project,0.0,22.6681,N/A
+Hackspace Capital,0.0,0.156473,N/A
+Neutron,0.0,0.988788,N/A
+BitcoinZ,0.0,0.0235416,N/A
+Karbo,0.0,2.06551,N/A
+Iungo,0.0,0.479297,N/A
+Photon,0.0,0.00092976,N/A
+DopeCoin,0.0,0.257112,N/A
+MyWish,0.21,3.00141,1329.24%
+HEROcoin,0.0267,0.323703,1112.37%
+Galactrum,0.0,18.3558,N/A
+Hade Platform,0.0,0.140655,N/A
+Sharechain,0.0,0.0162848,N/A
+SpreadCoin,0.0,3.14431,N/A
+Denarius,0.0,4.37775,N/A
+Gatcoin,0.0,0.0918079,N/A
+Education Ecosystem,0.0,0.051711,N/A
+Blockpool,0.0,0.886343,N/A
+BlockCAT,0.88,6.49778,638.38%
+Ixcoin,0.0,0.699596,N/A
+Altcoin,0.0,200.923,N/A
+VeriumReserve,0.0,17.0669,N/A
+Hush,0.0,19.0502,N/A
+eBoost,0.0,2.39453,N/A
+Riecoin,0.0,0.565379,N/A
+Bitcloud,0.0,1.23963,N/A
+Sexcoin,0.0,0.237568,N/A
+Interstellar Holdings,0.0,0.337246,N/A
+Terracoin,0.0,1.49268,N/A
+Commodity Ad Network,0.0,0.442914,N/A
+Starbase,0.1,1.78811,1688.11%
+AurumCoin,0.0,53.487,N/A
+Fabric Token,0.0,0.191653,N/A
+Privatix,3.33,18.9873,470.18%
+Parkgene,0.0,0.0186809,N/A
+Masari,0.0,2.00744,N/A
+Breakout,0.0,1.23535,N/A
+COPYTRACK,1.19,0.40822,-65.69%
+Transcodium,0.0,0.183979,N/A
+LOCIcoin,0.0,0.877547,N/A
+vSlice,0.0,1.185,N/A
+Vezt,0.5,4.21546,743.09%
+Bonpay,0.0,2.97599,N/A
+RefToken,0.0,57.5465,N/A
+Upfiring,0.0,2.74185,N/A
+CannabisCoin,0.0,0.35993,N/A
+ZrCoin,0.0,75.5572,N/A
+SyncFab,0.12,0.0568327,-52.63%
+BlueCoin,0.0,0.0169249,N/A
+Ethorse,0.0,0.284421,N/A
+Stellite,0.0,0.00166541,N/A
+BelugaPay,0.0,0.753264,N/A
+Experty,1.05,0.685094,-34.75%
+Creditbit,0.0,2.66455,N/A
+Tracto,0.0,1.98179,N/A
+Chainium,0.0664,0.164779,148.16%
+Zephyr,0.0,0.117775,N/A
+Daneel,0.0,0.451501,N/A
+Lampix,0.11,0.316771,187.97%
+StarterCoin,0.0,0.0549947,N/A
+EncryptoTel [WAVES],0.0,0.574499,N/A
+Autonio,0.0,0.853422,N/A
+Sociall,0.0,1.14083,N/A
+FORCE,0.0,0.355357,N/A
+CryptoPing,0.0,1.19668,N/A
+Maverick Chain,0.0,0.200646,N/A
+Ignition,0.0,42.3396,N/A
+Aigang,0.35,4.84254,1283.58%
+RussiaCoin,0.0,6.53426,N/A
+HiCoin,0.0,0.0907065,N/A
+BlitzPredict,0.0,0.0155446,N/A
+DigiPulse,0.0,13.3877,N/A
+BiblePay,0.0,0.012806,N/A
+Jiyo,0.0,0.196303,N/A
+GCN Coin,0.0,0.000204212,N/A
+EverGreenCoin,0.0,0.791002,N/A
+CampusCoin,0.0,0.0550741,N/A
+Elite,0.0,0.00110984,N/A
+Uniform Fiscal Object,0.0,0.00593311,N/A
+EventChain,0.0,1.16046,N/A
+MicroMoney,1.0,2.42111,142.11%
+1World,0.0,0.584081,N/A
+Social Send,0.0,1.03188,N/A
+DCORP,0.0,2.99458,N/A
+Signals Network,0.0,0.032779,N/A
+TeslaCoin,0.0,0.142644,N/A
+AudioCoin,0.0,0.0403897,N/A
+Rupee,0.0,0.82913,N/A
+Verify,0.23,4.51106,1861.33%
+Indorse Token,0.0,0.344786,N/A
+Ace,0.0,1.90274,N/A
+e-Gulden,0.0,0.53803,N/A
+XGOX,0.0,0.0270266,N/A
+STRAKS,0.0,40.7368,N/A
+VeriME,0.0,0.150678,N/A
+Magi,0.0,1.86717,N/A
+HunterCoin,0.0,0.869166,N/A
+Bitswift,0.0,2.31853,N/A
+Live Stars,0.0,0.102205,N/A
+KekCoin,0.0,0.486733,N/A
+EtherSportz,0.0,0.647282,N/A
+GoldMint,0.0,6.35336,N/A
+Primalbase Token,0.0,10776.5,N/A
+TrustPlus,0.0,0.389077,N/A
+Pylon Network,0.0,43.2917,N/A
+Ergo,0.0,22.8174,N/A
+Creativecoin,0.0,1.26092,N/A
+Coinlancer,0.25,0.509644,103.85%
+MagicCoin,0.0,114.874,N/A
+PutinCoin,0.0,0.0432222,N/A
+Condensate,0.0,0.137257,N/A
+Yocoin,0.0,0.343787,N/A
+TrezarCoin,0.0,0.482954,N/A
+Zero,0.0,12.0538,N/A
+Universe,0.0,0.641962,N/A
+IntenseCoin,0.0,0.0884456,N/A
+Hat.Exchange,0.0,24.8048,N/A
+ChainCoin,0.0,6.59317,N/A
+The Cypherfunks,0.0,0.000147825,N/A
+Argentum,0.0,0.938285,N/A
+TokenStars,0.0,0.457489,N/A
+HireMatch,0.0,0.13495,N/A
+Rupaya,0.0,0.405139,N/A
+Capricoin,0.0,2.79059,N/A
+BuzzCoin,0.0,0.00260272,N/A
+Version,0.0,0.018132,N/A
+Magnet,0.0,2.74063,N/A
+Qvolta,0.31,2.79581,801.87%
+NobleCoin,0.0,0.0133385,N/A
+Origami,0.0,1.64854,N/A
+Datarius Credit,0.0,0.0208576,N/A
+CryCash,0.0,0.754276,N/A
+Ellaism,0.0,4.43034,N/A
+Linx,0.0,0.849673,N/A
+United Crypto Community,0.0,8.78474,N/A
+LiteDoge,0.0,0.000754038,N/A
+BoutsPro,0.0,0.0387484,N/A
+DigitalPrice,0.0,0.420482,N/A
+FLiK,0.0,0.318597,N/A
+Deutsche eMark,0.0,0.508432,N/A
+EquiTrader,0.0,1.36774,N/A
+SkinCoin,0.0,0.0641809,N/A
+onG.social,0.0,2.55937,N/A
+eBitcoin,0.0,1.91199,N/A
+Tidex Token,0.0,0.906305,N/A
+Earth Token,0.0,0.0496108,N/A
+UnbreakableCoin,0.0,3.35945,N/A
+Biotron,0.0,0.0937753,N/A
+Blocklancer,0.0,0.0637649,N/A
+VIVO,0.0,14.6005,N/A
+Bitdeal,0.0,0.703028,N/A
+SmileyCoin,0.0,0.000576392,N/A
+42-coin,0.0,1013620.0,N/A
+Bytecent,0.0,3.00613,N/A
+Innova,0.0,16.905,N/A
+Obsidian,0.0,2.62522,N/A
+PlusCoin,0.0,0.0045998,N/A
+Bitzeny,0.0,0.401199,N/A
+APR Coin,0.0,6.8552,N/A
+Wild Crypto,0.0,1.53808,N/A
+808Coin,0.0,0.00486776,N/A
+Speed Mining Service,0.0,159.019,N/A
+Tigereum,0.0,0.401293,N/A
+Chronologic,0.0,12.7388,N/A
+TokenDesk,0.0,0.932144,N/A
+Machinecoin,0.0,0.220185,N/A
+WandX,0.0,1.32461,N/A
+BunnyCoin,0.0,0.000123254,N/A
+IncaKoin,0.0,0.00608632,N/A
+PopularCoin,0.0,0.0034326,N/A
+BitWhite,0.0,0.943438,N/A
+Megacoin,0.0,2.60243,N/A
+DraftCoin,0.0,6.61781,N/A
+I0Coin,0.0,0.175447,N/A
+Unitus,0.0,0.126398,N/A
+Onix,0.0,0.535112,N/A
+Centra,0.0,4.2754,N/A
+Shekel,0.0,0.149581,N/A
+Advanced Technology Coin,0.0,0.347591,N/A
+Monster Byte,0.0,0.213443,N/A
+Nitro,0.0,1.52825,N/A
+WeAreSatoshi,0.0,0.0575225,N/A
+bitJob,0.39,0.240133,-38.42%
+PHI Token,0.0,0.621862,N/A
+MAZA,0.0,0.0834004,N/A
+Plancoin,0.0,0.346805,N/A
+PetroDollar,0.0,0.10907,N/A
+Cryptonite,0.0,0.0744115,N/A
+Kolion,0.0,9.12915,N/A
+Legends Room,0.0,5.75721,N/A
+Fantasy Cash,0.0,2.91375,N/A
+Miners' Reward Token,0.0,0.62406,N/A
+Equal,0.0,0.0200972,N/A
+Soma,0.74,1.20121,62.32%
+PlatinumBAR,0.0,4.51094,N/A
+Oceanlab,0.0,0.148476,N/A
+Zetacoin,0.0,0.0882323,N/A
+SagaCoin,0.0,24.2759,N/A
+Masternodecoin,0.0,0.464055,N/A
+ProCurrency,0.0,0.364668,N/A
+Emphy,0.0,1.24151,N/A
+InsaneCoin,0.0,0.451054,N/A
+RouletteToken,0.0,0.854787,N/A
+Adzcoin,0.0,0.161113,N/A
+UniCoin,0.0,0.617695,N/A
+MCAP,0.0,7.85947,N/A
+Centurion,0.0,0.251029,N/A
+Bata,0.0,1.20433,N/A
+Vulcano,0.0,0.0385554,N/A
+FujiCoin,0.0,0.00687847,N/A
+Moin,0.0,1.29238,N/A
+Startcoin,0.0,0.487771,N/A
+Aerium,0.0,2.64374,N/A
+Numus,0.0,41.7837,N/A
+PiplCoin,0.0,0.11443,N/A
+DRP Utility,0.0,1.19458,N/A
+InflationCoin,0.0,0.000175106,N/A
+Authorship,0.0,0.128315,N/A
+Happycoin,0.0,0.362929,N/A
+Qbic,0.0,33.1248,N/A
+ELTCOIN,0.0,0.207699,N/A
+Suretly,0.0,16.1704,N/A
+Elcoin,0.0,0.297713,N/A
+Guncoin,0.0,0.0278036,N/A
+Jetcoin,0.0,1.08219,N/A
+BigUp,0.0,0.00160999,N/A
+Growers International,0.0,4.90032,N/A
+Fastcoin,0.0,0.0490132,N/A
+Phoenixcoin,0.0,0.102731,N/A
+ArbitrageCT,0.0,0.0992675,N/A
+Intelligent Trading Foundation,0.0,1.29889,N/A
+GreenMed,0.0,0.398715,N/A
+AdCoin,0.0,0.474264,N/A
+Bitsum,0.0,0.00289231,N/A
+Bitradio,0.0,1.31563,N/A
+Minereum,0.0,12.8231,N/A
+Veros,0.0,0.112338,N/A
+Triangles,0.0,43.9874,N/A
+Sugar Exchange,0.0,1.1231,N/A
+Accelerator Network,0.0,27.4724,N/A
+Elementrem,0.0,0.195533,N/A
+CryptoCarbon,0.0,3.72693,N/A
+Zilbercoin,0.0,6.44165,N/A
+Bitgem,0.0,56.1787,N/A
+bitBTC,0.0,23544.4,N/A
+Octoin Coin,0.0,19.6574,N/A
+Leviar,0.0,0.809374,N/A
+Cabbage,0.0,0.0549802,N/A
+DROXNE,0.0,0.0750744,N/A
+Golfcoin,0.0,0.000889638,N/A
+Litecoin Plus,0.0,3.62361,N/A
+Digital Money Bits,0.0,0.148352,N/A
+WhaleCoin,0.0,0.689423,N/A
+Escroco,0.0,4.75122,N/A
+Senderon,0.0,0.0502974,N/A
+Tattoocoin (Standard Edition),0.0,0.0194216,N/A
+BlazeCoin,0.0,0.00320852,N/A
+Bitair,0.0,0.024846,N/A
+TEKcoin,0.0,0.492371,N/A
+LiteBar,0.0,1.79663,N/A
+Phantomx,0.0,0.353165,N/A
+WCOIN,0.0,0.335324,N/A
+BriaCoin,0.0,12.6101,N/A
+bitGold,0.0,2102.51,N/A
+Pakcoin,0.0,0.0479068,N/A
+CarTaxi Token,0.0,0.163913,N/A
+Grimcoin,0.0,0.0433051,N/A
+Crystal Clear ,0.0,2.74295,N/A
+DaxxCoin,0.0,0.0891841,N/A
+WavesGo,0.0,0.560816,N/A
+Garlicoin,0.0,3.2841,N/A
+Zlancer,0.0,2.57149,N/A
+OP Coin,0.0,0.0903599,N/A
+Bitcoin Red,0.0,0.502117,N/A
+GlobalBoost-Y,0.0,0.0848594,N/A
+FirstCoin,0.0,17.8736,N/A
+Tokugawa,0.0,7.00022,N/A
+TOKYO,0.0,0.0259283,N/A
+Ethereum Gold,0.0,0.448512,N/A
+PostCoin,0.0,0.106769,N/A
+Scorecoin,0.0,0.27299,N/A
+ReeCoin,0.0,0.204543,N/A
+Steneum Coin,0.0,2.6412,N/A
+Kubera Coin,0.0,0.175877,N/A
+SpeedCash,0.0,3.60288,N/A
+Polcoin,0.0,0.0117639,N/A
+Jin Coin,0.0,0.11075,N/A
+ERC20,0.0,0.0179184,N/A
+RedCoin,0.0,0.0258884,N/A
+DigitalDevelopersFund,0.0,0.481251,N/A
+YENTEN,0.0,1.29062,N/A
+bitEUR,0.0,1.72664,N/A
+Peerguess,0.0,0.484982,N/A
+Octanox,0.0,0.843715,N/A
+Desire,0.0,4.98694,N/A
+SixEleven,0.0,2.69478,N/A
+MustangCoin,0.0,1.04093,N/A
+AmsterdamCoin,0.0,0.0538032,N/A
+Safe Trade Coin,0.0,0.0271547,N/A
+EagleCoin,0.0,0.504511,N/A
+MACRON,0.0,0.0157841,N/A
+Coin2.1,0.0,0.0182789,N/A
+Catcoin,0.0,0.783206,N/A
+Ethereum Dark,0.0,5.00452,N/A
+Beatcoin,0.0,0.353152,N/A
+Solarflarecoin,0.0,0.0419906,N/A
+HomeBlockCoin,0.0,13.2216,N/A
+BitAsean,0.0,0.459146,N/A
+GoldPieces,0.0,0.38348,N/A
+LiteBitcoin,0.0,0.0552579,N/A
+Coinonat,0.0,0.169402,N/A
+Comet,0.0,0.694358,N/A
+CrowdCoin,0.0,38.0802,N/A
+VapersCoin,0.0,0.000852847,N/A
+AllSafe,0.0,0.0920327,N/A
+Pioneer Coin,0.0,0.96408,N/A
+Master Swiscoin,0.0,0.494221,N/A
+Asiadigicoin,0.0,1.59313,N/A
+Royal Kingdom Coin,0.0,7.37485,N/A
+GeyserCoin,0.0,0.845636,N/A
+PRCoin,0.0,0.0549731,N/A
+Coupecoin,0.0,0.00102239,N/A
+WomenCoin,0.0,0.0223349,N/A
+CrevaCoin,0.0,0.113899,N/A
+Project-X,0.0,2530660.0,N/A
+HarmonyCoin,0.0,0.0622906,N/A
+POLY AI,0.0,21.397,N/A
+FuturXe,0.0,2.33916,N/A
+MUSE,0.0,1.98178,N/A
+Guaranteed Ethurance Token Extra,0.0,0.140208,N/A
+Hedge,0.0,14.0527,N/A
+SRCOIN,0.0,0.00511319,N/A
+Ecobit,0.0,0.146281,N/A
+KiloCoin,0.0,0.261945,N/A
+AsiaCoin,0.0,0.0422759,N/A
+Atmos,0.0,0.2838,N/A
+Xenon,0.0,0.57493,N/A
+TrakInvest,0.0,0.298798,N/A
+Goodomy,0.0,0.0215447,N/A
+PoSW Coin,0.0,1.02044,N/A
+Starta,0.0,2.10569,N/A
+Sharpe Platform Token,0.0,0.310736,N/A
+Quark,0.0,0.246855,N/A
+E-coin,0.0,77.7001,N/A
+LuckChain,0.0,0.0506053,N/A
+Mercury Protocol,0.043,0.265459,517.34%
+Ties.DB,0.0,0.671544,N/A
+Bullion,0.0,6.87157,N/A
+Triaconta,0.0,46.5771,N/A
+imbrex,0.0,3.26665,N/A
+Sense,0.1,0.0692296,-30.77%
+FlypMe,0.0,2.36909,N/A
+Darcrus,0.0,0.731856,N/A
+Vsync,0.0,0.275643,N/A
+Ethbits,0.0,7.39183,N/A
+Kobocoin,0.0,0.186769,N/A
+Bowhead,0.0,2.37657,N/A
+Jesus Coin,0.0,0.00140886,N/A
+MarteXcoin,0.0,7.82072,N/A
+NEVERDIE,0.0,0.308207,N/A
+Carboncoin,0.0,0.00189198,N/A
+Digitalcoin,0.0,0.698757,N/A
+Farad,0.0,0.206282,N/A
+Canada eCoin,0.0,0.0585805,N/A
+Ethereum Movie Venture,0.0,3.59272,N/A
+Orbitcoin,0.0,1.32205,N/A
+WorldCoin,0.0,0.831638,N/A
+FundYourselfNow,0.0,27.9557,N/A
+InPay,0.0,0.4172,N/A
+Sovereign Hero,0.0,250.059,N/A
+Shorty,0.0,0.024323,N/A
+Musiconomi,0.0,0.274191,N/A
+Fantomcoin,0.0,0.568595,N/A
+Woodcoin,0.0,0.391474,N/A
+Zennies,0.0,0.00419984,N/A
+FlutterCoin,0.0,0.0241515,N/A
+Etheriya,0.0,3.46215,N/A
+Renos,0.0,0.240576,N/A
+Embers,0.0,0.418749,N/A
+StarCredits,0.0,1.06478,N/A
+Dinastycoin,0.0,0.00729779,N/A
+Blitzcash,0.0,5.33828,N/A
+Bitpark Coin,0.0,0.140325,N/A
+MetalCoin,0.0,0.0327377,N/A
+NetCoin,0.0,0.0296113,N/A
+Global Jobcoin,0.0,35.6023,N/A
+Piggycoin,0.0,0.0396538,N/A
+Unify,0.0,0.67053,N/A
+ShadowCash,0.0,4.81115,N/A
+Cream,0.0,0.136549,N/A
+Skeincoin,0.0,0.239498,N/A
+Netko,0.0,0.800109,N/A
+Truckcoin,0.0,0.0175239,N/A
+UltraCoin,0.0,0.710041,N/A
+LanaCoin,0.0,0.00517753,N/A
+BritCoin,0.0,3.8015,N/A
+AquariusCoin,0.0,0.869046,N/A
+DeusCoin,0.0,0.787827,N/A
+BTCtalkcoin,0.0,0.0298471,N/A
+HoboNickels,0.0,0.237279,N/A
+ParallelCoin,0.0,3.6153,N/A
+QubitCoin,0.0,0.0182329,N/A
+bitSilver,0.0,96.7952,N/A
+Trollcoin,0.0,0.00712821,N/A
+BlockPay,0.0,0.649908,N/A
+ICO OpenLedger,0.0,13.6696,N/A
+Cashcoin,0.0,0.0501448,N/A
+iTicoin,0.0,80.8561,N/A
+SuperCoin,0.0,0.251396,N/A
+Bitcoin Scrypt,0.0,0.576584,N/A
+EthBet,0.0,0.845368,N/A
+BitBar,0.0,200.867,N/A
+Bit20,0.0,1702440.0,N/A
+Ultimate Secure Cash,0.0,0.341634,N/A
+Halcyon,0.0,1.58468,N/A
+Mao Zedong,0.0,0.322691,N/A
+BitTokens,0.0,10.6577,N/A
+Billionaire Token,0.0,1.46915,N/A
+Ethereum Cash,0.0,1.27866,N/A
+NuShares,0.0,0.0225181,N/A
+VoteCoin,0.0,0.123518,N/A
+iEthereum,0.0,0.383647,N/A
+TagCoin,0.0,3.11315,N/A
+Nyancoin,0.0,0.014763,N/A
+TittieCoin,0.0,0.00521959,N/A
+Opal,0.0,0.175951,N/A
+Newbium,0.0,0.0354846,N/A
+Synergy,0.0,6.62184,N/A
+Aricoin,0.0,0.022994,N/A
+TrumpCoin,0.0,0.844572,N/A
+HOdlcoin,0.0,0.079955,N/A
+Joincoin,0.0,1.64335,N/A
+EBCH,0.0,0.255774,N/A
+KushCoin,0.0,0.375082,N/A
+Dashcoin,0.0,0.0968932,N/A
+Joulecoin,0.0,0.138295,N/A
+Flycoin,0.0,5.122,N/A
+Blakecoin,0.0,0.13736,N/A
+OctoCoin,0.0,0.034183,N/A
+Regalcoin,0.0,88.1027,N/A
+Atomic Coin,0.0,0.258987,N/A
+CryptoInsight,0.0,0.271053,N/A
+Granite,0.0,0.0392895,N/A
+Sterlingcoin,0.0,0.289259,N/A
+MojoCoin,0.0,0.277224,N/A
+Motocoin,0.0,0.097932,N/A
+IslaCoin,0.0,0.383539,N/A
+Marscoin,0.0,0.0472431,N/A
+Dix Asset,0.0,2.0221,N/A
+Tigercoin,0.0,0.0395311,N/A
+iCoin,0.0,0.0865265,N/A
+Eternity,0.0,1.3281,N/A
+8Bit,0.0,1.66019,N/A
+Bitz,0.0,1.37159,N/A
+Titcoin,0.0,0.0648215,N/A
+Prototanium,0.0,9.40556,N/A
+Datacoin,0.0,1.06901,N/A
+Manna,0.0,0.0734719,N/A
+Evil Coin,0.0,0.0952099,N/A
+IrishCoin,0.0,0.116401,N/A
+PureVidz,0.0,0.0638752,N/A
+ChessCoin,0.0,0.0202448,N/A
+PayCoin,0.0,13.1639,N/A
+Bitstar,0.0,0.104551,N/A
+Influxcoin,0.0,2.93774,N/A
+Gapcoin,0.0,0.159464,N/A
+Darsek,0.0,0.0753271,N/A
+SecureCoin,0.0,1.11772,N/A
+Virtacoin,0.0,0.00446865,N/A
+Sativacoin,0.0,0.117918,N/A
+Cryptojacks,0.0,0.0163927,N/A
+C-Bit,0.0,0.020013,N/A
+Philosopher Stones,0.0,0.260702,N/A
+Mineum,0.0,0.151239,N/A
+Bitcurrency,0.0,0.0148846,N/A
+SpaceCoin,0.0,0.0874943,N/A
+Abjcoin,0.0,2.48231,N/A
+SmartCoin,0.0,0.200286,N/A
+Bitcoin Fast,0.0,0.284136,N/A
+Impact,0.0,0.00361823,N/A
+Rimbit,0.0,0.853592,N/A
+BoostCoin,0.0,0.593854,N/A
+ParkByte,0.0,2.80974,N/A
+NevaCoin,0.0,0.485238,N/A
+CannaCoin,0.0,0.462267,N/A
+Ratecoin,0.0,0.0131456,N/A
+Bolivarcoin,0.0,0.199961,N/A
+Emerald Crypto,0.0,0.0575859,N/A
+GoldBlocks,0.0,0.337116,N/A
+DigiCube,0.0,0.99336,N/A
+Swing,0.0,0.383932,N/A
+CoinonatX,0.0,0.462696,N/A
+Xios,0.0,3.94696,N/A
+BERNcash,0.0,0.0195293,N/A
+ZoZoCoin,0.0,3.18503,N/A
+PX,0.0,0.00776231,N/A
+Freicoin,0.0,0.338475,N/A
+RonPaulCoin,0.0,41.5112,N/A
+300 Token,0.0,2680.98,N/A
+SatoshiMadness,0.0,0.000459906,N/A
+Bankcoin,0.0,4.2035,N/A
+LeaCoin,0.0,0.00261781,N/A
+AmberCoin,0.0,0.0475224,N/A
+Ammo Reloaded,0.0,0.0383356,N/A
+Pascal Lite,0.0,0.517631,N/A
+ChanCoin,0.0,0.257303,N/A
+RevolverCoin,0.0,0.0569141,N/A
+GlobalToken,0.0,0.0490731,N/A
+Coin(O),0.0,0.0513654,N/A
+Shadow Token,0.0,0.311875,N/A
+Fujinto,0.0,0.546917,N/A
+Prime-XI,0.0,0.0813882,N/A
+Helleniccoin,0.0,0.306203,N/A
+Kurrent,0.0,0.068115,N/A
+BumbaCoin,0.0,0.0337774,N/A
+Quebecoin,0.0,0.152253,N/A
+FinCoin,0.0,0.187401,N/A
+Quatloo,0.0,0.143351,N/A
+Advanced Internet Blocks,0.0,0.0714339,N/A
+Nekonium,0.0,0.8893,N/A
+Rubies,0.0,0.102549,N/A
+SecretCoin,0.0,0.154945,N/A
+HempCoin,0.0,0.00207885,N/A
+GameUnits,0.0,4.60249,N/A
+Theresa May Coin,0.0,0.0171326,N/A
+Signatum,0.0,0.151703,N/A
+GlobalCoin,0.0,0.0378516,N/A
+Zurcoin,0.0,0.014275,N/A
+Dalecoin,0.0,2.84921,N/A
+Mincoin,0.0,0.845931,N/A
+Allion,0.0,0.118629,N/A
+PayCon,0.0,0.0459153,N/A
+Visio,0.0,0.119534,N/A
+TajCoin,0.0,0.0635064,N/A
+Ccore,0.0,4.51022,N/A
+Firecoin,0.0,5.51808,N/A
+SOILcoin,0.0,0.12019,N/A
+Neuro,0.0,0.0380093,N/A
+EcoCoin,0.0,5.76002,N/A
+Acoin,0.0,0.442507,N/A
+Crypto,0.0,0.0764433,N/A
+Global Tour Coin,0.0,0.0329924,N/A
+BROTHER,0.0,0.0118387,N/A
+Bitcoin Planet,0.0,0.283146,N/A
+Eurocoin,0.0,0.0936657,N/A
+SoonCoin,0.0,0.21499,N/A
+Elysium,0.0,0.0285994,N/A
+BitCoal,0.0,0.404964,N/A
+Honey,0.0,5.66281,N/A
+BitQuark,0.0,0.138139,N/A
+JavaScript Token,0.0,0.0339192,N/A
+X-Coin,0.0,0.118417,N/A
+Network Token,0.0,0.126366,N/A
+Digital Rupees,0.0,0.000865945,N/A
+Trident Group,0.0,3.18295,N/A
+Bitcoin 21,0.0,0.488863,N/A
+Dollarcoin,0.0,0.258474,N/A
+CacheCoin,0.0,4.77404,N/A
+FUNCoin,0.0,0.478585,N/A
+Money,0.0,0.0168862,N/A
+PoSToken,0.0,3.32096,N/A
+CompuCoin,0.0,0.0322091,N/A
+High Voltage,0.0,1.65244,N/A
+GuccioneCoin,0.0,0.0125913,N/A
+Flaxscript,0.0,0.087572,N/A
+AgrolifeCoin,0.0,0.0749126,N/A
+Madcoin,0.0,1.72605,N/A
+BenjiRolls,0.0,0.0256417,N/A
+Chronos,0.0,0.0565419,N/A
+Marijuanacoin,0.0,0.557756,N/A
+BipCoin,0.0,0.322492,N/A
+SongCoin,0.0,0.0198155,N/A
+Bolenum,0.0,0.0885045,N/A
+Virta Unique Coin,0.0,0.0677277,N/A
+ICOBID,0.0,0.0127742,N/A
+Debitcoin,0.0,0.016987,N/A
+Shilling,0.0,0.0251928,N/A
+Gold Pressed Latinum,0.0,2.00896,N/A
+Useless Ethereum Token,0.0,26.1021,N/A
+QuazarCoin,0.0,4.68182,N/A
+Eryllium,0.0,0.438186,N/A
+Kronecoin,0.0,0.351052,N/A
+MindCoin,0.0,0.00892042,N/A
+BnrtxCoin,0.0,0.0320777,N/A
+Printerium,0.0,0.0346416,N/A
+ZetaMicron,0.0,0.000639113,N/A
+FuzzBalls,0.0,0.384369,N/A
+Metal Music Coin,0.0,0.00872769,N/A
+Luna Coin,0.0,0.637557,N/A
+Uro,0.0,12.7964,N/A
+Californium,0.0,0.197653,N/A
+Roofs,0.0,0.00632384,N/A
+ExchangeN,0.0,0.115226,N/A
+Jewels,0.0,0.0269251,N/A
+Veltor,0.0,3.76357,N/A
+MiloCoin,0.0,0.0988829,N/A
+Copico,0.0,0.607968,N/A
+ARbit,0.0,0.046366,N/A
+Iconic,0.0,0.530488,N/A
+Interzone,0.0,0.974099,N/A
+BiosCrypto,0.0,0.00789639,N/A
+BOAT,0.0,0.0311653,N/A
+HealthyWormCoin,0.0,0.0532225,N/A
+StarCash Network,0.0,4.86068,N/A
+Creatio,0.0,0.0253098,N/A
+Independent Money System,0.0,0.304318,N/A
+Slevin,0.0,0.00819612,N/A
+Zayedcoin,0.0,0.0232325,N/A
+LetItRide,0.0,0.0193689,N/A
+DAPPSTER,0.0,0.00171155,N/A
+GBCGoldCoin,0.0,10.0,N/A
+Dreamcoin,0.0,0.124547,N/A
+PIECoin,0.0,0.0448253,N/A
+Cannation,0.0,0.398335,N/A
+CryptoWorldX Token,0.0,0.0123413,N/A
+ImpulseCoin,0.0,0.00529494,N/A
+PonziCoin,0.0,0.206782,N/A
+GeertCoin,0.0,0.0364343,N/A
+Litecred,0.0,0.00848998,N/A
+JobsCoin,0.0,0.0012592,N/A
+VectorAI,0.0,0.0308615,N/A
+TAGRcoin,0.0,0.00223175,N/A
+Credence Coin,0.0,7.11691,N/A
+KingN Coin,0.0,111.045,N/A
+LiteCoin Ultra,0.0,0.792451,N/A
+PLNcoin,0.0,0.0124259,N/A
+Steps,0.0,0.0160543,N/A
+Destiny,0.0,0.529933,N/A
+PlayerCoin,0.0,0.00819937,N/A
+RSGPcoin,0.0,73.841,N/A
+AnarchistsPrime,0.0,1.74187,N/A
+Bitvolt,0.0,0.00951772,N/A
+PosEx,0.0,0.357911,N/A
+BowsCoin,0.0,0.0224776,N/A
+Wild Beast Block,0.0,2.6485,N/A
+Dollar Online,0.0,0.153676,N/A
+Rawcoin,0.0,0.0986652,N/A
+GlassCoin,0.0,2.05113,N/A
+Argus,0.0,0.253708,N/A
+Save and Gain,0.0,0.146751,N/A
+Artex Coin,0.0,0.0168857,N/A
+Cthulhu Offerings,0.0,0.141021,N/A
+BioBar,0.0,0.0857082,N/A
+iBank,0.0,0.0222664,N/A
+Selfiecoin,0.0,0.00110485,N/A
+Concoin,0.0,0.0518854,N/A
+NodeCoin,0.0,0.026385,N/A
+Coimatic 3.0,0.0,42.1007,N/A
+Coimatic 2.0,0.0,0.0377638,N/A
+Vault Coin,0.0,0.0236085,N/A
+Ulatech,0.0,0.348633,N/A
+SocialCoin,0.0,0.248908,N/A
+Magnum,0.0,0.0544884,N/A
+LevoPlus,0.0,0.374985,N/A
+Tristar Coin,0.0,0.0607112,N/A
+Ebittree Coin,0.0,0.0617458,N/A
+CaliphCoin,0.0,0.217737,N/A
+CK USD,0.0,1.02214,N/A
+Libra Credit,0.12,0.338325,181.93%
+ATMCoin,0.0,8.72528,N/A
+EduCoin,0.0,0.00616816,N/A
+TrustNote,0.0,0.170358,N/A
+ZIP,0.0,0.00261393,N/A
+Tripio,0.0,0.0233721,N/A
+Content and AD Network,0.0,0.365042,N/A
+Kcash,0.0,0.303665,N/A
+Penta,0.0,0.0305143,N/A
+Pundi X,0.0021,0.015341,630.52%
+Skrumble Network,0.0515,0.104296,102.51%
+OFCOIN,0.0,0.00775072,N/A
+Open Platform,0.08,0.29714,271.42%
+Intelligent Investment Chain,0.0,0.0131888,N/A
+APIS,0.0,0.0145956,N/A
+RED,0.0,0.219263,N/A
+IoTeX,0.007,0.0861141,1130.20%
+CoinMeet,0.0,0.126144,N/A
+Acute Angle Cloud,0.0,0.258526,N/A
+Super Bitcoin,0.0,436.126,N/A
+OceanChain,0.0,0.0192404,N/A
+Noah Coin,0.0,0.0375315,N/A
+NKN,0.13,0.539514,315.01%
+Patron,0.0,0.152786,N/A
+StarChain,0.0,0.16982,N/A
+RealChain,0.0,0.149745,N/A
+Silent Notary,0.0,0.000353259,N/A
+Lightning Bitcoin,0.0,629.818,N/A
+SPINDLE,0.0,0.0410613,N/A
+ChatCoin,0.0,0.450536,N/A
+Molecular Future,0.0,0.509259,N/A
+Super Game Chain,0.0,0.00350693,N/A
+Dignity,0.0,0.295979,N/A
+B2Bcoin,0.0,0.0793959,N/A
+TopChain,0.0,0.126478,N/A
+Tokia,0.0,0.433673,N/A
+Maggie,0.0,0.0803741,N/A
+ValueChain,0.0,0.134305,N/A
+Phantasma,0.0,0.766171,N/A
+Freyrchain,0.0,0.0207594,N/A
+Dragon Coins,0.0,2.38046,N/A
+United Bitcoin,0.0,578.607,N/A
+Influence Chain,0.0,0.602957,N/A
+MyToken,0.0,0.0379304,N/A
+AWARE,0.0,0.0936746,N/A
+Gems ,0.0,0.0577705,N/A
+Level Up Coin,0.0,0.0172328,N/A
+FairGame,0.0,0.166219,N/A
+BitcoinX,0.0,0.11392,N/A
+Show,0.0,0.0215341,N/A
+Tezos (Pre-Launch),0.0,11.2146,N/A
+InsurChain,0.0,0.00230758,N/A
+Exchange Union,0.0,17.277,N/A
+WETH,0.0,2033.3,N/A
+Hero,0.0,0.763148,N/A
+UnlimitedIP,0.0,0.14095,N/A
+LightChain,0.0,0.00824828,N/A
+Monero Classic,0.0,24.0867,N/A
+Nexty,0.0,0.00127445,N/A
+iQuant,0.0,0.889377,N/A
+Loopring [NEO],0.0,3.31533,N/A
+HalalChain,0.0,0.509107,N/A
+Fargocoin,0.0,11.0288,N/A
+Global Social Chain,0.0,0.246384,N/A
+Read,0.0,0.064674,N/A
+Electronic PK Chain,0.0,0.159412,N/A
+Crowd Machine,0.0,0.177781,N/A
+Filecoin [Futures],0.0,29.5915,N/A
+Switcheo,0.0,0.0604504,N/A
+CFun,0.0,0.10538,N/A
+IPChain,0.0,1.5331,N/A
+PressOne,0.0,1.18203,N/A
+Naviaddress,0.0,0.0261541,N/A
+Fidelium,0.0,0.345543,N/A
+KEY,0.0,0.0126424,N/A
+Infinity Economics,0.0,0.08816,N/A
+XYO Network,0.0072,0.00747643,3.83%
+BigONE Token,0.0,11.4731,N/A
+StockChain,0.0,0.0633786,N/A
+Rublix,0.0,0.721838,N/A
+COMSA [ETH],0.0,3.97353,N/A
+Eximchain,0.0,0.935638,N/A
+InvestDigital,0.0,0.143609,N/A
+Cybereits,0.0,0.0323644,N/A
+Rhenium,0.0,0.761166,N/A
+COMSA [XEM],0.0,4.05291,N/A
+Bezant,0.1,0.222221,122.22%
+Invacio,0.0,0.224971,N/A
+Aidos Kuneen,0.0,87.1219,N/A
+Faceter,0.0349,0.0223995,-35.81%
+Qube,0.0,0.136731,N/A
+Dascoin,0.0,0.179072,N/A
+Digix Gold Token,0.0,46.3883,N/A
+StarCoin,0.0,0.0806414,N/A
+Animation Vision Cash,0.0,0.0478283,N/A
+REPO,0.0,0.141252,N/A
+Content Neutrality Network,0.0,0.00276431,N/A
+GameChain System,0.0,0.0856929,N/A
+Travala,0.0,0.336798,N/A
+Curriculum Vitae,0.0,0.055709,N/A
+BlockMesh,0.0,0.0377882,N/A
+Sphre AIR ,0.0,0.728353,N/A
+TerraNova,0.0,6779.17,N/A
+Arbitracoin,0.0,0.431528,N/A
+Cazcoin,0.0,0.07507,N/A
+SegWit2x,0.0,2206.0,N/A
+Pixie Coin,0.0,0.00447085,N/A
+Bela,0.0,0.521526,N/A
+BlockCDN,0.0,0.281821,N/A
+Bitcoin Interest,0.0,22.7799,N/A
+SnipCoin,0.0,0.00163945,N/A
+BetterBetting,0.0,0.115008,N/A
+Consensus,0.0,0.0527496,N/A
+AC3,0.0,0.418776,N/A
+Monero Original,0.0,22.9367,N/A
+Callisto Network,0.0,0.0642241,N/A
+MSD,0.0,0.221365,N/A
+Lendroid Support Token,0.0,0.0154674,N/A
+Vipstar Coin,0.0,0.00108966,N/A
+Hyper Pay,0.0,0.155958,N/A
+EmberCoin,0.0,0.000930863,N/A
+Decentralized Machine Learning,0.0,0.24308,N/A
+Candy,0.0,0.00183995,N/A
+Swisscoin,0.0,0.020257,N/A
+Cropcoin,0.0,0.586853,N/A
+Indicoin,0.0,0.0968023,N/A
+Infinitecoin,0.0,0.00150368,N/A
+Golos Gold,0.0,0.446864,N/A
+BitSoar,0.0,0.00111184,N/A
+Animecoin,0.0,0.0238243,N/A
+WINCOIN,0.0,1.95897,N/A
+EDRCoin,0.0,16.4657,N/A
+United Traders Token,0.0,2.5737,N/A
+W3Coin,0.0,0.010272,N/A
+HODL Bucks,0.0,0.669136,N/A
+Internet of Things,0.0,3042.46,N/A
+EtherDelta Token,0.0,0.167063,N/A
+President Johnson,0.0,0.495876,N/A
+Slothcoin,0.0,7.93265e-05,N/A
+President Trump,0.0,0.304328,N/A
+First Bitcoin Capital,0.0,1.12566,N/A
+TeslaCoilCoin,0.0,6.43914,N/A
+StrikeBitClub,0.0,4.43774,N/A
+WA Space,0.0,0.452058,N/A
+Bitcoin God,0.0,175.499,N/A
+Amon,0.0,0.075494,N/A
+Bastonet,0.0,0.0193646,N/A
+Etherecash,0.0,0.985515,N/A
+CryptopiaFeeShares,0.0,13199.9,N/A
+Royalties,0.0,2.03903,N/A
+Sakura Bloom,0.0,0.00606887,N/A
+Superior Coin,0.0,0.0153375,N/A
+Budbo,0.0,0.114113,N/A
+CORION,0.0,1.06403,N/A
+ACChain,0.0,2.72436,N/A
+ClubCoin,0.0,6.40973,N/A
+Sparks,0.0,16.9665,N/A
+Harvest Masternode Coin,0.0,4.87253,N/A
+ZenGold,0.0,0.650046,N/A
+MarxCoin,0.0,0.010255,N/A
+Ethereum Lite,0.0,1.26138,N/A
+ERA,0.0,0.220532,N/A
+Titanium Blockchain,0.0,4.21097,N/A
+Utrum,0.0,0.140847,N/A
+Storjcoin X,0.0,2.01537,N/A
+SONO,0.0,2.19105,N/A
+Aseancoin,0.0,0.0517723,N/A
+ANRYZE,0.0,0.0511593,N/A
+LandCoin,0.0,0.343463,N/A
+Cloud,0.0,0.523809,N/A
+Minex,0.0,0.870543,N/A
+SJWCoin,0.0,0.00212924,N/A
+Karmacoin,0.0,0.000196468,N/A
+RabbitCoin,0.0,8.94948e-05,N/A
+UR,0.0,0.0108933,N/A
+EA Coin,0.0,6.80059,N/A
+UniversalRoyalCoin,0.0,0.017665,N/A
+RichCoin,0.0,0.0213259,N/A
+T-coin,0.0,0.00241308,N/A
+Wi Coin,0.0,0.0404959,N/A
+NamoCoin,0.0,0.00319759,N/A
+Quotient,0.0,0.027903,N/A
+GoldMaxCoin,0.0,0.255571,N/A
+SHACoin,0.0,0.0109459,N/A
+Tattoocoin (Limited Edition),0.0,126.824,N/A
+SISA,0.0,0.127726,N/A
+Runners,0.0,0.0017574,N/A
+PlexCoin,0.0,0.700001,N/A
+TurboCoin,0.0,0.000602293,N/A
+Magnetcoin,0.0,2.10454,N/A
+Smoke,0.0,0.163308,N/A
+Huncoin,0.0,0.0264863,N/A
+PROUD Money,0.0,1.62944,N/A
+Pabyosi Coin (Special),0.0,0.440062,N/A
+Francs,0.0,0.199085,N/A
+DynamicCoin,0.0,1.00001,N/A
+Bank Coin,0.0,0.195485,N/A
+Cyder,0.0,0.177142,N/A
+GrandCoin,0.0,0.0027525,N/A
+DavorCoin,0.0,177.627,N/A
+Akuya Coin,0.0,3.95775,N/A
+Bubble,0.0,0.463205,N/A
+Avoncoin,0.0,0.0486747,N/A
+NEO GOLD,0.0,0.0590913,N/A
+Sakuracoin,0.0,0.0176373,N/A
+ZSEcoin,0.0,0.265793,N/A
+EncryptoTel [ETH],0.0,0.326539,N/A
+LinkedCoin,0.0,0.001536,N/A
+Sand Coin,0.0,0.944749,N/A
+XTD Coin,0.0,0.00317831,N/A
+TopCoin,0.0,0.0122549,N/A
+NumusCash,0.0,0.00331453,N/A
+BetaCoin,0.0,0.134175,N/A
+Donationcoin,0.0,0.00819477,N/A
+Antimatter,0.0,0.0013103,N/A
+Wink,0.0,0.011274,N/A
+FAPcoin,0.0,0.161393,N/A
+GOLD Reward Token,0.0,7.03938,N/A
+CoffeeCoin,0.0,0.00428285,N/A
+Levocoin,0.0,0.0944976,N/A
+Birds,0.0,0.00112912,N/A
+AvatarCoin,0.0,0.337626,N/A
+Dashs,0.0,0.152148,N/A
+Regacoin,0.0,0.0178639,N/A
+STEX,0.0,6.44132,N/A
+BTCMoon,0.0,0.0943531,N/A
+BlazerCoin,0.0,0.0134813,N/A
+Protean,0.0,0.000436211,N/A
+Cubits,0.0,0.0613137,N/A
+First Bitcoin,0.0,0.20968,N/A
+UGAIN,0.0,0.0713493,N/A
+RoyalCoin,0.0,0.293469,N/A
+TodayCoin,0.0,0.0318072,N/A
+Pirate Blocks,0.0,0.052164,N/A
+India Coin,0.0,0.00523419,N/A
+KlondikeCoin,0.0,0.110279,N/A
+BitSerial,0.0,8.45187,N/A
+Tellurion,0.0,0.00228633,N/A
+Bitbase,0.0,4.25799,N/A
+Dutch Coin,0.0,0.00255425,N/A
+eREAL,0.0,0.0103971,N/A
+Halloween Coin,0.0,0.00107695,N/A
+Axiom,0.0,0.0477348,N/A
+SuperNET,0.0,240.118,N/A
+Fazzcoin,0.0,1.34541,N/A
+Aces,0.0,0.0113035,N/A
+High Gain,0.0,0.0375733,N/A
+UNCoin,0.0,1.00984,N/A
+Omicron,0.0,0.613089,N/A
+PrismChain,0.0,0.00988035,N/A
+SportsCoin,0.0,0.0073288,N/A
+ShellCoin,0.0,0.233046,N/A
+Primulon,0.0,0.00148752,N/A
+SIGMAcoin,0.0,0.129306,N/A
+CryptCoin,0.0,1.22179,N/A
+Hyper,0.0,0.186539,N/A
+Sharkcoin,0.0,0.719913,N/A
+EggCoin,0.0,0.0697569,N/A
+Cycling Coin,0.0,0.00506307,N/A
+DeltaCredits,0.0,0.605921,N/A
+X2,0.0,0.000576537,N/A
+Opescoin,0.0,0.0105406,N/A
+Operand,0.0,3.71876,N/A
+DarkLisk,0.0,0.00438525,N/A
+Alphabit,0.0,366.825,N/A
+PokeCoin,0.0,0.000664243,N/A
+Rcoin,0.0,0.0129103,N/A
+LePen,0.0,0.00056709,N/A
+KashhCoin,0.0,0.0480731,N/A
+BestChain,0.0,0.407452,N/A
+Cheapcoin,0.0,0.00284773,N/A
+Bitok,0.0,989.041,N/A
+OX Fina,0.0,0.0377033,N/A
+BT2 [CST],0.0,1253.91,N/A
+Qora,0.0,0.82393,N/A
+Vcash,0.0,1.95141,N/A
+TechShares,0.0,16.7822,N/A
+Macro,0.0,5.56775,N/A
+Farstcoin,0.0,0.0,N/A
+ENTCash,0.0,0.178953,N/A
+Jingtum Tech,0.0,0.0368063,N/A
+MOAC,0.0,18.2864,N/A
+Aston,0.0,0.26647,N/A

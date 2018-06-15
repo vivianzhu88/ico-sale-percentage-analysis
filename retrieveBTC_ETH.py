@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
+import json
 
 def currency(url, df):
     #Opening up the URL
@@ -34,5 +35,5 @@ def currency(url, df):
     info.to_csv(df, index=False, encoding='utf-8')
 
 
-currency("https://coinmarketcap.com/currencies/bitcoin/historical-data/?start=20130428&end=20180606", "btc.txt")
-currency("https://coinmarketcap.com/currencies/ethereum/historical-data/?start=20130428&end=20180606", "eth.txt")
+currency("https://coinmarketcap.com/currencies/bitcoin/historical-data/?start=20130428&end=20180606", "btc.json")
+currency("https://coinmarketcap.com/currencies/ethereum/historical-data/?start=20130428&end=20180606", "eth.json")

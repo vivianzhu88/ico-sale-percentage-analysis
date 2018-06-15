@@ -2,6 +2,8 @@ import requests
 import json
 from bs4 import BeautifulSoup
 from multiprocessing import Pool
+import pandas as pd
+
 
 def ICO_drops(names_or_prices):
     # retrieves all of the coin names or prices from ICO drops
@@ -60,7 +62,6 @@ def find_year(url):
         date = day_info[0].get_text()
         year = date[len(date)-4] + date[len(date)-3] + date[len(date)-2] + date[len(date)-1]
         return(year)
-        print(year)
     else:
         return(url)
 
@@ -77,7 +78,7 @@ def find_date(url):
         if (space == 1):
             first_half = date[0]
             date = date[2:5]
-            date = date + " " + first_half
+            date = date + " 0" + first_half
             return(date)
         else:
             first_half = date[0] + date[1]
@@ -87,57 +88,89 @@ def find_date(url):
     else:
         return(url)
 
-def calculating_date():
+def year_date(year_or_date):
     with open("coins.txt", "r") as f:
         data = json.load(f)
         coin_names = [d["name"] for d in data]
         coin_slug = [d["slug"] for d in data]
     ico_names = ICO_drops("names")
 
-    '''slugs = []
-    for i in range(0,len(coin_names)):
-        for z in range(0,len(ico_names)):
-            if (coin_names[i] == ico_names[z]):
-                slugs.append(coin_slug[i])
-            if (len(slugs)-1 != i):
-                slugs.append("N/A")
+    if (year_or_date == "year"):
+        slugs = []
+        for i in range(0,len(coin_names)):
+            for z in range(0,len(ico_names)):
+                if (coin_names[i] == ico_names[z]):
+                    slugs.append(coin_slug[i])
+                if (len(slugs)-1 != i):
+                    slugs.append("N/A")
 
-    urls = []
-    for item in slugs:
-        if(item != "N/A"):
-            url = "https://coinmarketcap.com/currencies/" + item + "/historical-data/?start=20130428&end=20180606"
-            urls.append(url)
-        else:
-            urls.append("N/A")
+        urls = []
+        for item in slugs:
+            if(item != "N/A"):
+                url = "https://coinmarketcap.com/currencies/" + item + "/historical-data/?start=20130428&end=20180606"
+                urls.append(url)
+            else:
+                urls.append("N/A")
 
-    if __name__ == '__main__':
-        with Pool(50) as p:
-            years = p.map(find_year, urls)
-
-    print(years)'''
+        if __name__ == '__main__':
+            with Pool(50) as p:
+                years = p.map(find_year, urls)
+        return(years)
+            
+    elif (year_or_date == "day"):
+        ico_links = ICO_drops_links()
         
-    ico_links = ICO_drops_links()
-    urls2 = []
-    for i in range(0,len(coin_names)):
-        for z in range(0,len(ico_names)):
-            if (coin_names[i] == ico_names[z]):
-                urls2.append(ico_links[z])
-            if (len(urls2)-1 != i):
-                urls2.append("N/A")
+        urls2 = []
+        for i in range(0,len(coin_names)):
+            for z in range(0,len(ico_names)):
+                if (coin_names[i] == ico_names[z]):
+                    urls2.append(ico_links[z])
+                if (len(urls2)-1 != i):
+                    urls2.append("N/A")
 
-    if __name__ == '__main__':
-        with Pool(50) as p:
-            days = p.map(find_date, urls2)
-    print(days)
-        
-    '''dates = []
+        if __name__ == '__main__':
+            with Pool(50) as p:
+                days = p.map(find_date, urls2)
+        return(days)
+    else:
+        print("invalid")
+
+
+def calculating_date():
+    years = year_date("year")
+    days = year_date("day")
+    
+    dates = []
     for i in range(0,len(days)):
         if (days[i] != "N/A"):
             date = days[i] + ", " + years[i]
             dates.append(date)
         else:
             dates.append("N/A")
+    return(dates)
 
-    return(dates)'''
+def initial_price(file):
+    df = pd.read_csv(file)
+    dates = calculating_date()
+    
+    initial_p = []
+    for i in range(0, len(dates)-1):
+        if(dates[i] != "N/A"):
+            if(dates[i] in df.Date.values):
+                price = df[df["Date"] == dates[i]]["Price"].values[0]
+                initial_p.append(str("{0:0.2f}".format(int(price * 100)/100.0)))
+            else:
+                date = dates[i]
+                num = int(date[len(date)-1])
+                num -= 1
+                date = date[:-1] + str(num)
+                price = (df[df["Date"] == date]["Price"].values[0])
+                initial_p.append(str("{0:0.2f}".format(int(price * 100)/100.0)))
+        else:
+            initial_p.append(dates[i])
 
-calculating_date()
+    return(initial_p)
+
+btc_init = initial_price("btc.txt")
+print(btc_init)
+eth_init = initial_price("eth.txt")

@@ -89,31 +89,14 @@ def find_date(url):
     else:
         return(url)
 
-def find_unix(url):
-    # finds maximum price of a coin
-    if(url != "N/A"):
-        r = requests.get(url)
-        cont = r.json()
-        
-        prices = list(map(lambda x: x[1], cont["price_usd"]))
-        if prices:
-            maxPrice = max(prices)
-            max_index = prices.index(maxPrice)
-            max_unix = cont["price_usd"][max_index][0]
-            return (max_unix)
-        else:
-            return (0)
-    else:
-        return(url)
-
-def year_day_maxDates(year_day_or_max):
+def year_day(year_or_day):
     with open("coins.txt", "r") as f:
         data = json.load(f)
         coin_names = [d["name"] for d in data]
         coin_slug = [d["slug"] for d in data]
     ico_names = ICO_drops("names")
 
-    if (year_day_or_max == "year"):
+    if (year_or_day == "year"):
         slugs = []
         for i in range(0,len(coin_names)):
             for z in range(0,len(ico_names)):
@@ -134,8 +117,8 @@ def year_day_maxDates(year_day_or_max):
             with Pool(50) as p:
                 years = p.map(find_year, urls)
         return(years)
-            
-    elif (year_day_or_max == "day"):
+
+    elif (year_or_day == "day"):
         ico_links = ICO_drops_links()
         
         urls2 = []
@@ -150,35 +133,14 @@ def year_day_maxDates(year_day_or_max):
             with Pool(50) as p:
                 days = p.map(find_date, urls2)
         return(days)
-
-    elif (year_day_or_max == "max"):
-        slugs = []
-        for i in range(0,len(coin_names)):
-            for z in range(0,len(ico_names)):
-                if (coin_names[i] == ico_names[z]):
-                    slugs.append(coin_slug[i])
-                if (len(slugs)-1 != i):
-                    slugs.append("N/A")
-
-        urls = []
-        for item in slugs:
-            if(item != "N/A"):
-                url = "https://coinmarketcap.com/currencies/" + item + "/"
-                urls.append(url)
-            else:
-                urls.append("N/A")
-
-        if __name__ == '__main__':
-            with Pool(50) as p:
-                max_times = p.map(find_unix, urls)
-        return(max_times)
             
     else:
         print("invalid")
 
-def calculating_init_date():
-    years = year_day_maxDates("year")
-    days = year_day_maxDates("day")
+
+def calculating_date():
+    years = year_day("year")
+    days = year_day("day")
     
     dates = []
     for i in range(0,len(days)):
@@ -189,13 +151,17 @@ def calculating_init_date():
             dates.append("N/A")
     return(dates)
 
-def calculating_max_date():
-    max_unixes = year_day_maxDates("max")
+def find_unix(url):
+    if (url != "N/A"):
+        r = requests.get(url)
+        cont = r.json()
 
-    dates = []
-    for i in range(0,len(max_unixes)):
-        if (max_unixes[i] != "N/A"):
-            unix_timestamp = float(max_unixes[i])/1000.0
+        prices = list(map(lambda x: x[1], cont["price_usd"]))
+        if prices:
+            maxPrice = max(prices)
+            max_index = prices.index(maxPrice)
+            max_unix = cont["price_usd"][max_index][0]
+            unix_timestamp = float(max_unix)/1000.0
             local_timezone = tzlocal.get_localzone()
             local_time = datetime.fromtimestamp(unix_timestamp, local_timezone)
 
@@ -203,38 +169,88 @@ def calculating_max_date():
             date = local_time.strftime("%d")
             if (len(date) == 1):
                 date = "0" + date
-            dates.append(local_time.strftime(month[0:3] + " " + date + ", %Y"))
-        else:
-            dates.append("N/A")
-    return(dates)
+            return(local_time.strftime(month[0:3] + " " + date + ", %Y"))
 
-def initial_price(file):
+        else:
+            return (0)
+    else:
+        return(url)
+
+def unixes():
+    with open("coins.txt", "r") as f:
+        data = json.load(f)
+        coin_names = [d["name"] for d in data]
+        coin_slug = [d["slug"] for d in data]
+    ico_names = ICO_drops("names")
+
+    slugs = []
+    for i in range(0,len(coin_names)):
+        for z in range(0,len(ico_names)):
+            if (coin_names[i] == ico_names[z]):
+                slugs.append(coin_slug[i])
+            if (len(slugs)-1 != i):
+                slugs.append("N/A")
+
+    urls = []
+    for item in slugs:
+        if(item != "N/A"):
+            url = "https://graphs2.coinmarketcap.com/currencies/"+item+"/"
+            urls.append(url)
+        else:
+            urls.append("N/A")
+
+    if __name__ == '__main__':
+        with Pool(50) as p:
+            max_dates = p.map(find_unix, urls)
+    return(max_dates)
+
+def init_max_prices(file, init_or_max):
     df = pd.read_csv(file)
-    dates = calculating_init_date()
+    if (init_or_max == "init"):
+        dates = calculating_date()
+    elif (init_or_max == "max"):
+        dates = unixes()
     
-    initial_p = []
+    prices = []
     for i in range(0, len(dates)-1):
         if(dates[i] != "N/A"):
             if(dates[i] in df.Date.values):
                 price = df[df["Date"] == dates[i]]["Price"].values[0]
-                initial_p.append(str("{0:0.2f}".format(int(price * 100)/100.0)))
+                prices.append(str("{0:0.2f}".format(int(price * 100)/100.0)))
             else:
                 date = dates[i]
                 num = int(date[len(date)-1])
                 num -= 1
                 date = date[:-1] + str(num)
                 price = (df[df["Date"] == date]["Price"].values[0])
-                initial_p.append(str("{0:0.2f}".format(int(price * 100)/100.0)))
+                prices.append(str("{0:0.2f}".format(int(price * 100)/100.0)))
         else:
-            initial_p.append(dates[i])
+            prices.append(dates[i])
+    return(prices)
 
-    return(initial_p)
+def calculating_ROI(init, max):
+    temp =
 
-print(calculating_max_date())
+def assemble_init_max(init_list, max_list):
+    beg_price = []
+    for i in range(0,len(coin_names)):
+        for z in range(0,len(ico_names)):
+            if (coin_names[i] == ico_names[z]):
+                beg_price.append(ico_prices[z])
+        if (len(beg_price)-1 != i):
+            beg_price.append(0)
 
-'''btc_init = initial_price("btc.txt")
-print(btc_init)
-eth_init = initial_price("eth.txt")'''
+    begin_end = []
+    for i in range(0,len(beg_price)):
+        list1 = [beg_price[i], coin_max[i]]
+        begin_end.append(list1)
+    
+    if __name__ == '__main__':
+        with Pool(100) as p:
+            roi = p.map(calculating_ROI, begin_end)
 
-
+btc_init = init_max_prices("btc.txt", "init")
+btc_max = init_max_prices("btc.txt", "max")
+eth_init = init_max_prices("eth.txt", "init")
+eth_max = init_max_prices("eth.txt", "max")
 

@@ -17,7 +17,7 @@ def find_max (url):
     else:
         return (0)
 
-def find_max_unix(url, max):
+def find_max_unix(url):
     # finds maximum price of a coin
     r = requests.get(url)
     cont = r.json()
